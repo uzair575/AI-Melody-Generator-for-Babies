@@ -1,0 +1,9 @@
+streamlit
+sounddevice
+numpy
+wave
+openai-whisper
+google-generativeai
+requests
+pydub
+urllib3
